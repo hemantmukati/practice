@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 	r := register{
-		name:     "hemant",
+		name:     "hemant mukati",
 		subject:  "cse",
 		mobile:   123,
 		password: "h@123",
